@@ -13,7 +13,8 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="C Language" height="30" width="40" src="https://visualpharm.com/assets/698/C%20Programming-595b40b65ba036ed117d3edc.svg"/>
-
+  
+  ##
   [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/roweber?cursus=42cursus)](https://github.com/JaeSeoKim/badge42)
   ##
  
