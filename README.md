@@ -1,4 +1,5 @@
 ### Olá, bem-vindo(a) ao meu GITHUB👋
+### Hello and welcome to my GITHUB👋
 
  <div>
   <a href="https://github.com/rodrigowe1988">
